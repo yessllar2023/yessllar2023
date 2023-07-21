@@ -1,19 +1,17 @@
 
-#        Hola 👋
+##       Hola 👋
 
-## 🚀     Acerca de mí
-###      He aprendido que no hay una sola fórmula para hacer las cosas.
-####     Por medio del desarrollo web, descubrí mis ganas de explorar un rol profesional en el mundo de la tecnología. 
+<h3> 🚀 &nbsp;Acerca de mí</h3> 
 
-## 💻   Habilidades: 
+**He aprendido que no hay una sola fórmula para hacer las cosas.**
 
-   * JS / HTML / CSS / NODE
+Por medio del desarrollo web, descubrí mis ganas de explorar un rol profesional en el mundo de la tecnología. 
+
+- 💻 Mis Habilidades son JS / HTML / CSS / NODE
   
-## ⏳ Actualmente estoy aprendiendo:
-
-   * JS, CSS, HTML, NODE
+- 📚 Actualmente estoy aprendiendo JS, CSS, HTML, NODE
  
-## 📫 contacto:
+- 📫 Me puedes contactar al correo yesseniamillar@gmail.com
 
-     [correo] (yesseniamillar@gmail.com)
+- 💼 Podemos conectar <a href="https://www.linkedin.com/in/yessenia-mr">LinkedIn</a>
       
